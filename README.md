@@ -56,7 +56,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Total Customers: **148K**
 - Total Cancellations: **37K** (~25%)
 
-![Performance Overview](images/PerformanceOverview.png) 
+![Performance Overview](images/Performance_Overview.png) 
 
 ---
 
