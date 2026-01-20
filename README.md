@@ -87,7 +87,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Common customer reasons: wrong address, change of plans, driver not moving
 - Common driver reasons: customer-related issues, over-capacity, personal/car issues
 
-![Cancellation Report](Dashboards/Cancellation.png)
+![Cancellation Report](Dashboards/Cancellations.png)
 
 ---
 
