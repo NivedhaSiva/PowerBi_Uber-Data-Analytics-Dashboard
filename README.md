@@ -98,6 +98,30 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - **Revenue Insights** → Track booking values and trends over time  
 
 ---
+### 🧠 Conclusion  
+The integration of Excel and Power BI enabled a comprehensive analysis of **Uber Ride Bookings (2024)**.  
+Key findings include:
+
+- Total Bookings reached **10.4K**, generating **₹51.42M** in revenue.  
+- **Driver-related cancellations** dominated (~72%), highlighting operational challenges.  
+- **UPI and Cash** were the most preferred payment methods, contributing the largest share of revenue.  
+- **Auto and Go Mini** vehicles generated the highest booking values, while **Uber XL** had the lowest share.  
+- Higher **customer ratings (4.5–5.0)** correlated strongly with higher booking values.  
+- Monthly trends showed **March, January, and October** as peak revenue months.  
+
+This project transformed complex ride booking data into clear, actionable insights on **customer behavior, driver performance, and revenue optimization**.
+
+---
+
+### 👩‍💻 Author  
+Nivedha Sivakumar  
+Data Analyst | Power BI Developer | AI Practitioner  
+
+🌐 GitHub: NivedhaSiva  
+💼 LinkedIn: [Nivedha Sivakumar](www.linkedin.com/in/nivedhasivakumar)  
+📧 Email:  nivedha_sivalumar@outlook.com
+
+If you found this project useful or have feedback, feel free to reach out!
 
 ## 🚀 Getting Started
 1. Clone this repository  
