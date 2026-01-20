@@ -1,11 +1,8 @@
-# PowerBi_Uber Data Analytics Dashboard
+# 🚖 Uber Ride Booking Dashboard (Power BI)
 
-# 🚖 Uber Ride Booking Dataset 2024
-
-This comprehensive dataset contains detailed ride-sharing data from Uber operations for the year 2024, providing rich insights into booking patterns, vehicle performance, revenue streams, cancellation behaviors, and customer satisfaction metrics.
-
+## 📘 Project Overview
+This project analyzes **Uber ride booking data (2024)** using **Power BI**.This comprehensive dataset contains detailed ride-sharing data from Uber operations for the year 2024, providing rich insights into booking patterns, vehicle performance, revenue streams, cancellation behaviors, and customer satisfaction metrics.
 The dataset captures 148,770 total bookings across multiple vehicle types and provides a complete view of ride-sharing operations including successful rides, cancellations, customer behaviors, and financial metrics.
-This dataset contains detailed information about ride bookings, cancellations, trip performance, and customer/driver interactions. It is designed for **data analysis, visualization, and dashboard creation** (e.g., Power BI, Tableau, Python, SQL).
 
 ---
 
@@ -27,5 +24,73 @@ This dataset contains detailed information about ride bookings, cancellations, t
 | Reason for cancelling by Customer | Reason for customer cancellation                                             |
 | Cancelled Rides by Driver      | Driver-initiated cancellation flag                                              |
 | Driver Cancellation Reason     | Reason for driver cancellation                                                  |
-| Incomplete Rides              
-Payment Method	Method used for payment (UPI, Cash, Credit Card, Uber Wallet, Debit Card)
+| Incomplete Rides               | Incomplete ride flag                                                            |
+| Incomplete Rides Reason        | Reason for incomplete rides                                                     |
+| Booking Value                  | Total fare amount for the ride                                                  |
+| Ride Distance                  | Distance covered during the ride (in km)                                        |
+| Driver Ratings                 | Rating given to driver (1–5 scale)                                              |
+| Customer Rating                | Rating given by customer (1–5 scale)                                            |
+| Payment Method                 | Method used for payment (UPI, Cash, Credit Card, Uber Wallet, Debit Card)       |
+
+---
+
+## 📈 Dashboard Insights (2024)
+
+### 🔹 Performance Overview
+- Total Bookings: **10.4K**
+- Revenue: **₹51.42M**
+- Average Ratings: **Customer 4.40**, **Driver 4.23**
+- Total Customers: **148K**
+- Total Cancellations: **37K** (~25%)
+
+![Performance Overview](images/performance_overview.png)
+
+---
+
+### 🔹 Revenue Trends
+- Highest revenue months: **March ($4.55M)**, **January ($4.41M)**, **October ($4.36M)**
+- Payment Method contribution: **UPI (23M)**, **Cash (20M)**, followed by Wallet & Cards
+- Vehicle Type contribution: **Auto (12.8M)**, **Go Mini (10.3M)**, **Go Sedan (9.3M)**
+
+![Revenue by Month](images/revenue_by_month.png)  
+![Revenue by Payment Method](images/revenue_by_payment.png)  
+![Revenue by Vehicle Type](images/revenue_by_vehicle.png)
+
+---
+
+### 🔹 Vehicle Performance
+- **Auto**: 37K rides, ₹12.77M revenue
+- **Bike**: 22K rides, ₹7.76M revenue
+- **Go Mini**: 29K rides, ₹10.25M revenue
+- **Premier Sedan**: 18K rides, ₹6.23M revenue
+- **Uber XL**: Lowest share (4.4K rides, ₹1.52M revenue)
+
+![Vehicle Performance](images/vehicle_performance.png)
+
+---
+
+### 🔹 Cancellation Analysis
+- **Driver-related cancellations** dominate (~72%)
+- Common customer reasons: wrong address, change of plans, driver not moving
+- Common driver reasons: customer-related issues, over-capacity, personal/car issues
+
+![Cancellation Report](images/cancellation_report.png)
+
+---
+
+## 🎯 Potential Use Cases
+- **Power BI Dashboards** → Visualize cancellations, trip durations, and customer satisfaction  
+- **Customer Behavior Analysis** → Study payment preferences, cancellation reasons, and ride distances  
+- **Driver Performance Metrics** → Evaluate VTAT, CTAT, and ratings  
+- **Revenue Insights** → Track booking values and trends over time  
+
+---
+
+## 🚀 Getting Started
+1. Clone this repository  
+2. Load the dataset into Power BI or your preferred tool  
+3. Use the schema and insights above to design dashboards or run analytics queries  
+
+---
+
+## 📂 Suggested Folder Structure
