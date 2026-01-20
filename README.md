@@ -1,4 +1,4 @@
-# PowerBi_Uber-Data-Analytics-Dashboard
+# PowerBi_Uber Data Analytics Dashboard
 
 # 🚖 Uber Ride Booking Dataset 2024
 
