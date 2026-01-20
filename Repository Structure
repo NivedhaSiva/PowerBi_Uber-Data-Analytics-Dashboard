@@ -1,0 +1,20 @@
+🗂️ Repository Structure
+Uber-Dashboard/
+│
+├── Dashboards/              # Contains Power BI dashboard screenshots
+│   ├── performance_overview.png
+│   ├── revenue_by_month.png
+│   ├── revenue_by_payment.png
+│   ├── revenue_by_vehicle.png
+│   ├── vehicle_performance.png
+│   └── cancellation_report.png
+│
+├── Data/                    # Contains dataset reference or sample files
+│   └── dataset_link.txt     # Text file with external dataset link (Google Drive)
+│       
+│
+├── README.md                # Project documentation
+│                            # Includes description, insights, chart types, and conclusion
+│
+└── Reports/                 # Power BI .pbix files or analysis reports
+    └── Uber_Dashboard.pbix
