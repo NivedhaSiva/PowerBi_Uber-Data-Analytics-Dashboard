@@ -112,6 +112,10 @@ Key findings include:
 This project transformed complex ride booking data into clear, actionable insights on **customer behavior, driver performance, and revenue optimization**.
 
 ---
+## 🚀 Getting Started
+1. Clone this repository  
+2. Load the dataset into Power BI or your preferred tool  
+3. Use the schema and insights above to design dashboards or run analytics queries 
 
 ### 👩‍💻 Author  
 Nivedha Sivakumar  
@@ -123,11 +127,6 @@ Data Analyst | Power BI Developer | AI Practitioner
 
 If you found this project useful or have feedback, feel free to reach out!
 
-## 🚀 Getting Started
-1. Clone this repository  
-2. Load the dataset into Power BI or your preferred tool  
-3. Use the schema and insights above to design dashboards or run analytics queries  
+ 
 
 ---
-
-## 📂 Suggested Folder Structure
