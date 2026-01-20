@@ -34,6 +34,19 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 
 ---
 
+## 🗂 Column Categorization
+| **Category**            | **Columns** |
+|----------------------   |-----------------------------------------------------------------------------|
+| **Identifiers**         | Booking ID, Customer ID | 
+| **Datetime**            | Date, Time | 
+| **Status Flags**        | Booking Status, Cancelled Rides by Customer, Cancelled Rides by Driver, Incomplete Rides | 
+| **Reasons (Text)**      | Reason for cancelling by Customer, Driver Cancellation Reason, Incomplete Rides Reason |
+| **Ride Details**        | Vehicle Type, Pickup Location, Drop Location, Ride Distance |
+| **Performance Metrics** | Avg VTAT (driver arrival time), Avg CTAT (trip duration) |
+| **Financials**          | Booking Value |
+| **Ratings**             | Driver Ratings, Customer Rating |
+| **Payment**             | Payment Method | ---
+
 ## 📈 Dashboard Insights (2024)
 
 ### 🔹 Performance Overview
