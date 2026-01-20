@@ -118,8 +118,7 @@ This project transformed complex ride booking data into clear, actionable insigh
 3. Use the schema and insights above to design dashboards or run analytics queries 
 
 ### 👩‍💻 Author  
-Nivedha Sivakumar  
-Data Analyst | Power BI Developer | AI Practitioner  
+Nivedha Sivakumar    
 
 🌐 GitHub: NivedhaSiva  
 💼 LinkedIn: [Nivedha Sivakumar](www.linkedin.com/in/nivedhasivakumar)  
