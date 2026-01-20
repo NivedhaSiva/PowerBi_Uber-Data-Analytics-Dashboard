@@ -56,7 +56,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Total Customers: **148K**
 - Total Cancellations: **37K** (~25%)
 
-![Performance Overview](images/performance_overview.png)
+![Performance Overview](images/Performance Overview.png)
 
 ---
 
@@ -65,9 +65,9 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Payment Method contribution: **UPI (23M)**, **Cash (20M)**, followed by Wallet & Cards
 - Vehicle Type contribution: **Auto (12.8M)**, **Go Mini (10.3M)**, **Go Sedan (9.3M)**
 
-![Revenue by Month](images/revenue_by_month.png)  
+![Revenue by Month](images/Revenue.png)  
 ![Revenue by Payment Method](images/revenue_by_payment.png)  
-![Revenue by Vehicle Type](images/revenue_by_vehicle.png)
+
 
 ---
 
@@ -78,7 +78,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - **Premier Sedan**: 18K rides, ₹6.23M revenue
 - **Uber XL**: Lowest share (4.4K rides, ₹1.52M revenue)
 
-![Vehicle Performance](images/vehicle_performance.png)
+![Vehicle Performance](images/Vehicle_Type.png)
 
 ---
 
@@ -87,7 +87,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Common customer reasons: wrong address, change of plans, driver not moving
 - Common driver reasons: customer-related issues, over-capacity, personal/car issues
 
-![Cancellation Report](images/cancellation_report.png)
+![Cancellation Report](images/Cancellation.png)
 
 ---
 
