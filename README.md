@@ -66,7 +66,7 @@ The dataset captures 148,770 total bookings across multiple vehicle types and pr
 - Vehicle Type contribution: **Auto (12.8M)**, **Go Mini (10.3M)**, **Go Sedan (9.3M)**
 
 ![Revenue by Month](images/Revenue.png)  
-![Revenue by Payment Method](images/revenue_by_payment.png)  
+![Revenue by Payment Method](images/Month_Trend.png)  
 
 
 ---
