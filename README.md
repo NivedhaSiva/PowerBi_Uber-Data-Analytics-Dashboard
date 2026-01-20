@@ -120,9 +120,9 @@ This project transformed complex ride booking data into clear, actionable insigh
 ### 👩‍💻 Author  
 Nivedha Sivakumar    
 
-🌐 GitHub: NivedhaSiva  
-💼 LinkedIn: [Nivedha Sivakumar](www.linkedin.com/in/nivedhasivakumar)  
-📧 Email:  nivedha_sivalumar@outlook.com
+🌐 GitHub   : NivedhaSiva  
+💼 LinkedIn : [Nivedha Sivakumar](www.linkedin.com/in/nivedhasivakumar)  
+📧 Email    :  nivedha_sivalumar@outlook.com
 
 If you found this project useful or have feedback, feel free to reach out!
 
